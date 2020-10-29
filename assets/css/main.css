@@ -139,7 +139,7 @@ max-width: 250px;
 
 .main-header{
   height:64vh;
-  background-image:  url('/static/assets/img/guitar.jpg');
+  background-image:  url('../img/guitar.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
